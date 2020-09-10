@@ -1,0 +1,13 @@
+D:\C# PROJECTS\PracticLesson2\bin\Debug\netcoreapp3.1\PracticLesson2.exe
+D:\C# PROJECTS\PracticLesson2\bin\Debug\netcoreapp3.1\PracticLesson2.deps.json
+D:\C# PROJECTS\PracticLesson2\bin\Debug\netcoreapp3.1\PracticLesson2.runtimeconfig.json
+D:\C# PROJECTS\PracticLesson2\bin\Debug\netcoreapp3.1\PracticLesson2.runtimeconfig.dev.json
+D:\C# PROJECTS\PracticLesson2\bin\Debug\netcoreapp3.1\PracticLesson2.dll
+D:\C# PROJECTS\PracticLesson2\bin\Debug\netcoreapp3.1\PracticLesson2.pdb
+D:\C# PROJECTS\PracticLesson2\obj\Debug\netcoreapp3.1\PracticLesson2.csprojAssemblyReference.cache
+D:\C# PROJECTS\PracticLesson2\obj\Debug\netcoreapp3.1\PracticLesson2.AssemblyInfoInputs.cache
+D:\C# PROJECTS\PracticLesson2\obj\Debug\netcoreapp3.1\PracticLesson2.AssemblyInfo.cs
+D:\C# PROJECTS\PracticLesson2\obj\Debug\netcoreapp3.1\PracticLesson2.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\PracticLesson2\obj\Debug\netcoreapp3.1\PracticLesson2.dll
+D:\C# PROJECTS\PracticLesson2\obj\Debug\netcoreapp3.1\PracticLesson2.pdb
+D:\C# PROJECTS\PracticLesson2\obj\Debug\netcoreapp3.1\PracticLesson2.genruntimeconfig.cache
