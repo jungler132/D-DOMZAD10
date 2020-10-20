@@ -12,6 +12,7 @@ namespace PracticLesson1
             student_2.Vvod();
             student.Show_Info();
             student_2.Show_Info();
+            Console.ReadKey();
         }
     }
 }
