@@ -14,6 +14,7 @@ namespace PracticLesson2
             client_2.Procent_nacis();
             Yuri_lico client_3 = new Yuri_lico();
             client_3.Procent_nacis();
+            Console.ReadKey();
         }
     }
 }
